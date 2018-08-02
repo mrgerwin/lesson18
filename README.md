@@ -18,7 +18,7 @@ We are going to skip task 6 where the programmer makes the menu for his simulato
 
 7. Use crops.py to test both your potato and wheat crops.
 
-Discussion Questions
+### Discussion Questions
 
 1) Describe how programmers save time using inheritance.
 
