@@ -1,6 +1,6 @@
 # lesson18
 Inheritance and Polymorphism
-We are going to skip task 6 where the programmer makes the menu for his simulator.  You can access a complete version of the app up through task 6 on github.  Continue using the link below.  You are responsible for task 7.  Upload your completed potato class. Then you will be making your own wheat class.
+###### We are going to skip task 6 where the programmer makes the menu for his simulator.  You can access a complete version of the app up through task 6 on github.  Continue using the link below.  You are responsible for task 7.  Upload your completed potato class. Then you will be making your own wheat class.
 
 ### Enhancement -  Making the Wheat Class
 
